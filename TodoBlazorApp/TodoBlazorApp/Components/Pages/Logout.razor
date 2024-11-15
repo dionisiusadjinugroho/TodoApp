@@ -1,0 +1,14 @@
+﻿@rendermode InteractiveServer
+@inject NavigationManager Navigation
+@inject IJSRuntime JSRuntime
+
+<button class="btn btn-link" @onclick="LogoutTrigger">Logout</button>
+@code {
+    private async Task LogoutTrigger()
+    {
+        //Delete Old Cookie
+        await JSRuntime.InvokeVoidAsync("eval", "document.cookie = 'UserID=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT';");
+
+        Navigation.NavigateTo("/Login");
+    }
+}

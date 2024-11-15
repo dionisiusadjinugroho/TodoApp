@@ -1,0 +1,64 @@
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.staticwebassets.runtime.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.exe
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.deps.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.runtimeconfig.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.dll
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.pdb
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.csproj.AssemblyReference.cache
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.AssemblyInfoInputs.cache
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.AssemblyInfo.cs
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.TodoBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoBlazorApp.props
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoBlazorApp.props
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoBlazorApp.props
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\bundle\TodoBlazorApp.styles.css
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\TodoBlazorApp.bundle.scp.css
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlaz.E11083B8.Up2Date
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.dll
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\refint\TodoBlazorApp.dll
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.pdb
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.genruntimeconfig.cache
+C:\Users\dioni\source\repos\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\ref\TodoBlazorApp.dll
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\appsettings.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.staticwebassets.runtime.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.exe
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.deps.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.runtimeconfig.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.dll
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\TodoBlazorApp.pdb
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.csproj.AssemblyReference.cache
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.AssemblyInfoInputs.cache
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.AssemblyInfo.cs
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.csproj.CoreCompileInputs.cache
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.TodoBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoBlazorApp.props
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoBlazorApp.props
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoBlazorApp.props
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\bundle\TodoBlazorApp.styles.css
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\scopedcss\projectbundle\TodoBlazorApp.bundle.scp.css
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlaz.E11083B8.Up2Date
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.dll
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\refint\TodoBlazorApp.dll
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.pdb
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\TodoBlazorApp.genruntimeconfig.cache
+D:\Github Dion\TodoApp\TodoBlazorApp\TodoBlazorApp\obj\Debug\net8.0\ref\TodoBlazorApp.dll

@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\helper\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\helper\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|c:\\users\\dioni\\source\\repos\\todowebapi\\todowebapi\\todowebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BA89F23C-8221-462C-BB64-6AEFEFFE7359}|TodoWebAPI\\TodoWebAPI.csproj|solutionrelative:todowebapi\\todowebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Dockerfile",
+              "RelativeToolTip": "TodoWebAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T16:54:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TodoWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:56:49.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Program.cs",
+              "RelativeToolTip": "TodoWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:47:45.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Helper\\Utility.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Helper\\Utility.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Helper\\Utility.cs",
+              "RelativeToolTip": "TodoWebAPI\\Helper\\Utility.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:30:27.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoWebAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:12:09.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\User.cs",
+              "RelativeToolTip": "TodoWebAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:10:46.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\appsettings.json",
+              "RelativeToolTip": "TodoWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T15:12:04.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T16:54:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TodoWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T15:28:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Data\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Data\\ToDoContext.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Data\\ToDoContext.cs",
+              "RelativeToolTip": "TodoWebAPI\\Data\\ToDoContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:10:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\UserLogin.cs",
+              "RelativeToolTip": "TodoWebAPI\\Models\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:07:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\UserRegister.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Models\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\UserRegister.cs",
+              "RelativeToolTip": "TodoWebAPI\\Models\\UserRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:17:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "TodoWebAPI\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\Models\\Activity.cs",
+              "RelativeToolTip": "TodoWebAPI\\Models\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:04:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoWebAPI",
+              "DocumentMoniker": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\TodoWebAPI.csproj",
+              "RelativeDocumentMoniker": "TodoWebAPI\\TodoWebAPI.csproj",
+              "ToolTip": "C:\\Users\\dioni\\source\\repos\\TodoWebAPI\\TodoWebAPI\\TodoWebAPI.csproj",
+              "RelativeToolTip": "TodoWebAPI\\TodoWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T16:20:41.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

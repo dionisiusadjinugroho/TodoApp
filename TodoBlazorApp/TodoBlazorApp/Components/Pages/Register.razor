@@ -1,0 +1,91 @@
+﻿@page "/Register"
+@inject NavigationManager Navigation
+@inject HttpClient Http
+@rendermode InteractiveServer
+@inject IConfiguration Configuration
+
+<div class="container vh-100 d-flex justify-content-center align-items-center">
+    <div class="card shadow-lg p-4" style="max-width: 400px; width: 100%;">
+        <h3 class="text-center mb-4">Register</h3>
+        <EditForm OnValidSubmit="HandleRegister" EditContext="editContext">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="mb-3">
+                <label for="name" class="form-label">Name</label>
+                <InputText id="name" class="form-control" @bind-Value="registerModel.Name" />
+                <ValidationMessage For="@(() => registerModel.Name)" />
+            </div>
+
+            <div class="mb-3">
+                <label for="username" class="form-label">Username</label>
+                <InputText id="username" class="form-control" @bind-Value="registerModel.Username" />
+                <ValidationMessage For="@(() => registerModel.Username)" />
+            </div>
+
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <InputText id="password" type="password" class="form-control" @bind-Value="registerModel.Password" />
+                <ValidationMessage For="@(() => registerModel.Password)" />
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">Register</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private RegisterModel registerModel = new RegisterModel();
+    private EditContext editContext;
+    private ValidationMessageStore messageStore;
+
+    protected override void OnInitialized()
+    {
+        editContext = new EditContext(registerModel);
+        messageStore = new ValidationMessageStore(editContext);
+    }
+
+    public async Task HandleRegister()
+    {
+        messageStore.Clear();
+
+        var registerPayload = new
+        {
+            username = registerModel.Username,
+            password = registerModel.Password,
+            name = registerModel.Name,
+        };
+
+        try
+        {
+            var response = await Http.PostAsJsonAsync($"{Configuration["ApiBaseUrl"]}/api/Todo/Register", registerPayload);
+
+            if (response.IsSuccessStatusCode)
+            {
+                Navigation.NavigateTo("/Login");
+            }
+            else
+            {
+                messageStore.Add(() => registerModel.Username, "Register failed. Please check your name, username and password.");
+                editContext.NotifyValidationStateChanged();
+            }
+        }
+        catch (Exception ex)
+        {
+            messageStore.Add(() => registerModel.Username, $"An error occurred: {ex.Message}");
+            editContext.NotifyValidationStateChanged();
+        }
+    }
+
+    public class RegisterModel
+    {
+        [Required(ErrorMessage = "Name is required")]
+        public string Name { get; set; }
+
+        [Required(ErrorMessage = "Username is required")]
+        public string Username { get; set; }
+
+        [Required(ErrorMessage = "Password is required")]
+        public string Password { get; set; }
+    }
+}
